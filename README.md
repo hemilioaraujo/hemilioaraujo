@@ -1,4 +1,4 @@
-![cabeçalho](https://github.com/hemilioaraujo/hemilioaraujo/blob/main/images/Hem%C3%ADlio%20Ara%C3%BAjo.png | width=100)
+![cabeçalho](https://github.com/hemilioaraujo/hemilioaraujo/blob/main/images/Hem%C3%ADlio%20Ara%C3%BAjo.png)
 
 ### Hi there 👋
 
