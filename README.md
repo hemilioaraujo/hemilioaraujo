@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hemilioaraujo&theme=buefy"/>
+
+
 ![](https://komarev.com/ghpvc/?username=hemilioaraujo&color=blue&style=flat)
