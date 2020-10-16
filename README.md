@@ -1,6 +1,4 @@
-![](https://www.canva.com/design/DAEKusEwZ-o/VIFLj7dIC0oyKUttS1cOsw/view?utm_content=DAEKusEwZ-o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink | width=100)
-
-![logo-unipac](https://www.canva.com/design/DAEKusEwZ-o/VIFLj7dIC0oyKUttS1cOsw/view?utm_content=DAEKusEwZ-o&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![cabeçalho](https://github.com/hemilioaraujo/hemilioaraujo/blob/main/images/Hem%C3%ADlio%20Ara%C3%BAjo.png | width=100)
 
 ### Hi there 👋
 
