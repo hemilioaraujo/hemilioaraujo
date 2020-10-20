@@ -1,6 +1,12 @@
 ![cabeçalho](https://github.com/hemilioaraujo/hemilioaraujo/blob/main/images/head.png)
 
-### Hi there 👋
+### Hi, I'm Hemílio 👋
+
+Currently I'm Automation Technician at Cimento Tupi.
+
+## Recent Contributions
+
+:es:
 
 <!--
 **hemilioaraujo/hemilioaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
