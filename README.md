@@ -1,30 +1,35 @@
 ![cabeçalho](https://github.com/hemilioaraujo/hemilioaraujo/blob/main/images/head.png)
 
-### Hi, I'm Hemílio 👋
+![](https://komarev.com/ghpvc/?username=hemilioaraujo&color=blue&style=flat)
 
-Currently I'm Automation Technician at Cimento Tupi.
+### Hi, I'm Hemílio 👋 
+* * *
+🏭 Currently I'm Automation Technician at Cimento Tupi and Computer Science Student.
+🏠 Based sometimes in Carandaí (Work), sometimes in Dores de Campos (Home). I'm not a nomad! 😂
+🖥 Looking for some opportunity to work with development.
+
+## Current Interests
+* * *
+:us: English - *Learning and needing to practice*
+🎲 PostgreSQL, MySql - *Learning*
+🐍 Python - *Django, Automation of boring stuff and learning more*
+
+## Passions
+* * *
+👪 Family
+🎸 Music
+🖥 Technology
 
 ## Recent Contributions
+* * *
+* [Linux-Commands](https://github.com/hemilioaraujo/Linux-Commands) - *A Linux terminal commands list that's commonly used.*
 
-:es:
+* [Portal Ensino](https://github.com/hemilioaraujo/portal_ensino) - *Scientific Initiation Project*
 
-<!--
-**hemilioaraujo/hemilioaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [jtemporal](https://github.com/jtemporal/jtemporal.github.io) - *Jessicas's github.io*
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [perifaCode](https://github.com/perifacode/) - *A list of free tech stuff*
 
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=hemilioaraujo&theme=buefy"/>
 
-
-![](https://komarev.com/ghpvc/?username=hemilioaraujo&color=blue&style=flat)
