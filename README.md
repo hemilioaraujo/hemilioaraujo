@@ -3,9 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=hemilioaraujo&color=blue&style=flat)
 
 ### Hi, I'm Hemílio 👋 
-🏭 Currently I'm Automation Technician at Cimento Tupi and Computer Science Student.  
-🏠 Based sometimes in Carandaí (Work), sometimes in Dores de Campos (Home). I'm not a nomad! 😂  
-🖥 Looking for some opportunity to work with development.  
+🏭 Currently I'm Backend Developer at PRODEMGE and father.  
+🏠 Based in Dores de Campos.    
 
 * * *
 ## Current Interests
